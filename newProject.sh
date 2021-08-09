@@ -2,6 +2,8 @@
 # create a new TS Nodejs project with AVA test support
 
 set -e # halt the script if an error occurs
+
+# (a) create directories and add packages
 NAME=$1
 
 mkdir $NAME
@@ -12,9 +14,7 @@ npm i -D  typescript ts-node
 mkdir src
 mkdir test
 
-TSCONFIG=https://raw.githubusercontent.com/YizYah/testingWebinar/main/tsconfig.json
-
-# AVA specs
+# (b) AVA specs
 jq '.ava = {
     "files": [
       "test/**/*.test.ts"
@@ -27,5 +27,6 @@ jq '.ava = {
     ]
   }' package.json | sponge package.json
 
-# TypeScript specs
+# (c) TypeScript specs
+TSCONFIG=https://raw.githubusercontent.com/YizYah/testingWebinar/main/tsconfig.json
 wget $TSCONFIG -O tsconfig.json
