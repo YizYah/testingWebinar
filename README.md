@@ -6,7 +6,7 @@ This repository is for the testing webinar.
 You can get materials referred to in the course from here.
 
 ## Getting Help
-You are welcome to contact Yisroel with questions in our [Discord Server](bit.ly/ut-discord) for the webinar.
+You are welcome to contact Yisroel with questions in our [Discord Server](https://discord.com/invite/KYk6jgmE) for the webinar.
 
 
 ## Contents
