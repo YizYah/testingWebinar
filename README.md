@@ -8,6 +8,9 @@ You can get materials referred to in the course from here.
 
 
 ## Getting Help
+
+We covered a lot of ground in the webinar and we want to make sure you're able to access the information in the future should you need it. Or perhaps you missed the event? No worries! You may access your [webinar recording here](https://youtu.be/4KGQxU5jknE).  
+
 You are welcome to contact Yisroel with questions in our [Discord Server](https://discord.gg/rNz9HfQWYD) for the webinar.
 
 Check out the [snippets used in the webinar](https://marketplace.visualstudio.com/items?itemName=YisroelYakovson.ava-recipes).
