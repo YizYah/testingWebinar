@@ -1,7 +1,6 @@
 ﻿# Testing Webinar Materials
-![](https://lh3.googleusercontent.com/1nWLB77IlCKZeZW38WMOc3kzspffY2e1RnjfmpcK3imy4IFWDYUvN-h2YDST2GVAqvGkXkXM-q-UCweT_W0P-rdCntbH544oqbVVUt0IjgxAkEjh0CxJ6q8ClcMQ-c05196Qjjel)
-
-This repository is for the testing webinar.  
+ 
+This repository is for the unit testing webinar.  
 
 You can get materials referred to in the course from here.
 
@@ -9,7 +8,7 @@ You can get materials referred to in the course from here.
 
 ## Getting Help
 
-We covered a lot of ground in the webinar and we want to make sure you're able to access the information in the future should you need it. Or perhaps you missed the event? No worries! You may access your [webinar recording here](https://youtu.be/4KGQxU5jknE).  
+We covered a lot of ground in the webinar and we want to make sure you're able to access the information in the future should you need it. Or perhaps you missed the event? No worries!
 
 You are welcome to contact Yisroel with questions in our [Discord Server](https://discord.gg/rNz9HfQWYD) for the webinar.
 
