@@ -8,7 +8,7 @@ You can get materials referred to in the course from here.
 
 ## Getting Help
 
-We covered a lot of ground in the webinar and we want to make sure you're able to access the information in the future should you need it. Or perhaps you missed the event? No worries!
+Head over to the [wiki](https://github.com/YizYah/testingWebinar/wiki) where you will be able to find all the resources that you need.
 
 You are welcome to contact Yisroel with questions in our [Discord Server](https://discord.gg/rNz9HfQWYD) for the webinar.
 
