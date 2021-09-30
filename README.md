@@ -1,6 +1,6 @@
 ﻿# Unit Testing Webinar/Classes Materials
  
-[<img src="https://lh3.googleusercontent.com/s0O51YPpp818yToRZgyxLRVtrBNjW5yIu0HkIyuj4bFSce8DZaA3R-stMZKOYv_FXanUrnWuJ4_zZFfa9VzrFRu-FDgl9qLCAsMqC123txL20LwoZV9fnU0SIOoLs7YkP9sLw3w_=s0" width="600"/>](repo-banner)
+[<img src="https://lh6.googleusercontent.com/Eh1JqmjsaQrADYH9JLH21KAvm-0sQpqzwdevwkRillv0VpjZl3eBFXWdklO7AFPSafLkhkKEvmFMFNwBbIaangvig1_FfdxxAH5giVacM7dW8UVvvP-LVUVPaoR19pHEM_Uxs3dZ=s0" width="600"/>](repo-banner)
  
 This repository is for the unit testing webinar/classes hosted by Yisroel Yakovson of [NoStack](https://www.nostack.net/).
 
