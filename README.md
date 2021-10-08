@@ -18,5 +18,5 @@ You can get materials referred to in the course from here.
 * [Beginner's Class Recipes](https://github.com/YizYah/testingWebinar/wiki/Recipes#beginners-class-recipes)
 
 ## Contents
-* **newProject.sh** -- a shell script for recipe 1, which creates a TS node project that has [AVA](https://www.npmjs.com/package/ava) built into it.
-* **tsconfig.json** -- the TypeScript configuration file used in the first recipe.
+* **newProject.sh** -- a shell script for [recipe #1](https://github.com/YizYah/testingWebinar/wiki/%5BBeginner%5D-Create-a-Project), which creates a TS node project that has [AVA](https://www.npmjs.com/package/ava) built into it.
+* **tsconfig.json** -- the [TypeScript](https://www.typescriptlang.org/) configuration file used in recipe #1.
