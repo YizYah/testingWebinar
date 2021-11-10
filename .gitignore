@@ -1,1 +1,10 @@
+/.nyc_output
+/dist
+/lib
+
+node_modules
+.env
+
+# editors
 .idea
+.vscode
